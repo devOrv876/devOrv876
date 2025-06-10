@@ -17,6 +17,7 @@ Welcome to my GitHub! I'm a passionate technologist, dedicated to connecting one
 - **Currently Exploring:**  
   - AI Foundry 🤖  
   - Semantic Kernel 🧠
+  - React Native 📱
 
 ---
 
@@ -25,8 +26,8 @@ Welcome to my GitHub! I'm a passionate technologist, dedicated to connecting one
 - 💻 **Full Stack Developer:** From front-end pixels to back-end logic, I love building cool apps end-to-end.
 - 🧑‍💻 **Tech Pioneer:** Always on the hunt for the next big thing in cloud, AI, and development.
 - 🕹️ **Gamer:** Huge Guild Wars 2 fan—ask me about my latest raid!
-- 🏋️ **Fitness Enthusiast:** Chasing that 100kg deadlift milestone.
-- 🎓 **Computer Science Graduate:** Solid foundation, endless curiosity.
+- 🏋️ **Fitness Enthusiast:** Chasing that 100kg deadlift milestone 💪🏾.
+- 🎓 **Computer Science Graduate:** Foundation, feed my curiosity.
 
 ---
 
