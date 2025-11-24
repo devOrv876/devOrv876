@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate technologist, dedicated to connecting one
 
 - **Currently Exploring:**  
   - AI Foundry 🤖  
-  - Semantic Kernel 🧠
+  - Microsoft Agent Framework 🧠
   - React Native 📱
 
 ---
