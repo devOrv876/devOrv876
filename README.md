@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate technologist, dedicated to connecting one
 ## 🛠️ Tech Stack & Expertise
 
 - **Languages & Frameworks:**  
-  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white) ![dotnet](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
 
 - **Cloud & DevOps:**  
   ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white)
